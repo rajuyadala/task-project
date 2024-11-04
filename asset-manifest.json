@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tast-project/static/css/main.a97acaa4.css",
+    "main.js": "/tast-project/static/js/main.42d38937.js",
+    "index.html": "/tast-project/index.html",
+    "main.a97acaa4.css.map": "/tast-project/static/css/main.a97acaa4.css.map",
+    "main.42d38937.js.map": "/tast-project/static/js/main.42d38937.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a97acaa4.css",
+    "static/js/main.42d38937.js"
+  ]
+}
