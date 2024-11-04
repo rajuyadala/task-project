@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/tast-project/static/css/main.a97acaa4.css",
-    "main.js": "/tast-project/static/js/main.42d38937.js",
-    "index.html": "/tast-project/index.html",
-    "main.a97acaa4.css.map": "/tast-project/static/css/main.a97acaa4.css.map",
-    "main.42d38937.js.map": "/tast-project/static/js/main.42d38937.js.map"
+    "main.css": "/task-project/static/css/main.a97acaa4.css",
+    "main.js": "/task-project/static/js/main.42d38937.js",
+    "index.html": "/task-project/index.html",
+    "main.a97acaa4.css.map": "/task-project/static/css/main.a97acaa4.css.map",
+    "main.42d38937.js.map": "/task-project/static/js/main.42d38937.js.map"
   },
   "entrypoints": [
     "static/css/main.a97acaa4.css",
